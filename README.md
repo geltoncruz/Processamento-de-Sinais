@@ -20,15 +20,15 @@ e exiba os dados cadastrados.
 
 
 ### Conteúdo previsto
-1. Algorítmo  
-1.1 Representações
-1.1.1 Fluxograma
-1.1.2 Porgutuguês estruturado
+1. Algorítmo    
+1.1 Representações  
+1.1.1 Fluxograma  
+1.1.2 Porgutuguês estruturado  
 
-1.2 Declaração de variáveis  
-1.3 Estrutura de controle e decisão
-1.3.1 Se então; Se aninhado
-1.3.2 Estrutura escolha / Caso
+1.2 Declaração de variáveis    
+1.3 Estrutura de controle e decisão  
+1.3.1 Se então; Se aninhado  
+1.3.2 Estrutura escolha / Caso  
 
 
 
